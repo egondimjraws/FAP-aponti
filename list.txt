@@ -1,0 +1,7 @@
+18-06
+total 4
+drwxr-xr-x. 1 gondim gondim   42 jun 16 15:41 .
+drwxr-xr-x. 1 gondim gondim   20 jun 14 15:52 ..
+drwxr-xr-x. 1 gondim gondim  164 jun 16 14:31 .git
+-rw-r--r--. 1 gondim gondim    0 jun 16 15:41 list.txt
+-rw-r--r--. 1 gondim gondim 2023 jun 16 14:31 README.md
