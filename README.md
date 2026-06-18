@@ -1,4 +1,5 @@
-# FAP Aponti - DevOps Learning Journey 🚀
+# Emanuel Gondim 
+# FAP Aponti Academy - DevOps Learning Journey 🚀
 
 Welcome to my DevOps repository! This space is dedicated to documenting my learning journey, storing hands-on lab configurations, and tracking my progress as I master DevOps practices, tools, and culture.
 
